@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Sampling"
+pageRef = "protocol/sampling/"
+identifier = "MVbKp1vXmV"
+weight = 9_999
+
+[[main]]
+name = "Map"
+pageRef = "/map/maps"
+identifier = "4A0DjUxK3U"
+weight = 9_999
+
+[[footer]]
+none = "none"
