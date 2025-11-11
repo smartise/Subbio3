@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maps on Subbio-mon eDNA </title>
-    <link>http://localhost:64216/map/</link>
+    <link>http://localhost:51504/map/</link>
     <description>Recent content in Maps on Subbio-mon eDNA </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025  </copyright>
-    <atom:link href="http://localhost:64216/map/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51504/map/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Map Page</title>
-      <link>http://localhost:64216/map/maps/</link>
+      <link>http://localhost:51504/map/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:64216/map/maps/</guid>
+      <guid>http://localhost:51504/map/maps/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/map/maps/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:51504/map/maps/featured.png" />
     </item>
     
   </channel>
