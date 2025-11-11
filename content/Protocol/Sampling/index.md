@@ -26,4 +26,3 @@ For each cave, a sampling blank has to be done. The blank consist of filtering a
 
 ## Sampling procedure 
 
-{{< youtubeLite id="mu5TBGr1psM" label="Blowfish-tools demo" >}}
