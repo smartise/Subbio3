@@ -3,60 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:64216/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/country/albania/</loc>
+    <loc>http://localhost:64216/country/albania/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/country/</loc>
+    <loc>http://localhost:64216/country/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/users/1oliviercollard/</loc>
+    <loc>http://localhost:64216/users/1oliviercollard/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/users/</loc>
+    <loc>http://localhost:64216/users/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/protocol/</loc>
+    <loc>http://localhost:64216/protocol/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/protocol/sampling/</loc>
+    <loc>http://localhost:64216/protocol/sampling/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/country/italy/</loc>
+    <loc>http://localhost:64216/country/italy/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/map/maps/</loc>
+    <loc>http://localhost:64216/map/maps/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/map/</loc>
+    <loc>http://localhost:64216/map/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

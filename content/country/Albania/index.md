@@ -6,6 +6,7 @@ description: "a description"
 tags: ["example", "tag"]
 authors:
   - "Oliviercollard"
+Type: "report"
 ---
  an example to get you started
 # This is a heading

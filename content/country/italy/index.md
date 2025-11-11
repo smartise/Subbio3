@@ -4,7 +4,7 @@ date: 2025-10-22
 draft: false
 description: "a description"
 tags: ["report"]
-type: 'report'
+Type: 'report'
 ---
  an example to get you started
 # This is a heading
@@ -14,3 +14,4 @@ type: 'report'
 This is a paragraph with **bold** and *italic* text.
 Check more at [Blowfish documentation](https://blowfish.page/)
 undefined
+

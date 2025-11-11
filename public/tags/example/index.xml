@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example on Subbio-mon eDNA </title>
-    <link>http://localhost:1313/tags/example/</link>
+    <link>http://localhost:64216/tags/example/</link>
     <description>Recent content in Example on Subbio-mon eDNA </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025  </copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:64216/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Albania</title>
-      <link>http://localhost:1313/country/albania/</link>
+      <link>http://localhost:64216/country/albania/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/country/albania/</guid>
+      <guid>http://localhost:64216/country/albania/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/country/albania/featured.png" />
+      
     </item>
     
     <item>
       <title>oliviercollard</title>
-      <link>http://localhost:1313/users/1oliviercollard/</link>
+      <link>http://localhost:64216/users/1oliviercollard/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/users/1oliviercollard/</guid>
+      <guid>http://localhost:64216/users/1oliviercollard/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/users/1oliviercollard/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/users/1oliviercollard/featured.png" />
     </item>
     
     <item>
       <title>Sampling</title>
-      <link>http://localhost:1313/protocol/sampling/</link>
+      <link>http://localhost:64216/protocol/sampling/</link>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/protocol/sampling/</guid>
+      <guid>http://localhost:64216/protocol/sampling/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/protocol/sampling/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/protocol/sampling/featured.png" />
     </item>
     
   </channel>
