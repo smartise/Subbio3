@@ -16,7 +16,7 @@
       
       <guid>http://localhost:64216/country/albania/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/country/albania/featured.png" />
     </item>
     
     <item>

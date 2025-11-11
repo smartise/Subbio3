@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Subbio-mon eDNA </title>
+    <title>Subbio-mon eDNA </title>
     <link>http://localhost:64216/</link>
-    <description>Recent content in Home on Subbio-mon eDNA </description>
+    <description>Recent content on Subbio-mon eDNA </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025  </copyright>
@@ -16,7 +16,7 @@
       
       <guid>http://localhost:64216/country/albania/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/country/albania/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/country/albania/featured.png" />
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       
       <guid>http://localhost:64216/country/italy/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/country/italy/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64216/country/italy/featured.png" />
     </item>
     
     <item>
